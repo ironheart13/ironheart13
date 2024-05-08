@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simona</h1>
+<h1 align="center">Hey there, I’m Simona 👾</h1>
 <h3 align="center">A passionate junior QA Tester, frontend developer from Czech Republic</h3>
 
 - 🌱 I’m currently learning **Javascript, Typescript, PostgreSQL**
