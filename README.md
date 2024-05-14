@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I am Simona 👾</h1>
-<h3 align="center">A passionate junior QA Tester, frontend developer from Czech Republic</h3>
+<h3 align="center">A passionate junior QA Engineer from Czech Republic</h3>
 
 - 🌱 I’m currently learning **Javascript, Python, PostgreSQL, Playwright, Test Automation**
 
